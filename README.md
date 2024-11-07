@@ -2,6 +2,8 @@
 
 Lingo is a Streamlit-based application that facilitates LLM text translations. It provides a super simple user interface and integrates with Google [Gemini](https://deepmind.google/technologies/gemini/), and hence can translate from/to **more than 100 languages**.
 
+### ➡️ [Access the app!](https://lingo-ai.streamlit.app/)
+
 ## Setup
 
 1. Obtain a [Google AI Studio API key](https://aistudio.google.com/app/apikey)
