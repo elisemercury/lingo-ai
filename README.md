@@ -9,6 +9,10 @@ Lingo is a Streamlit-based application that facilitates LLM text translations. I
 3. Enter your API Key in the text box in the "Settings" tab
 4. Start translating!
 
+<p align="center">
+  <img src="app.png" width="700" title="Lingo App">
+</p>
+
 ## Features
 
 A simple to use interface, that comes with customizable translation parameters, including:
