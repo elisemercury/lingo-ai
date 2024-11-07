@@ -5,7 +5,7 @@ Lingo is a Streamlit-based application that facilitates LLM text translations. I
 ## Setup
 
 1. Obtain a [Google AI Studio API key](https://aistudio.google.com/app/apikey)
-2. Go to the Lingo.ai app 
+2. Go to the [Lingo.ai app](https://lingo-ai.streamlit.app/)
 3. Enter your API Key in the text box in the "Settings" tab
 4. Start translating!
 
