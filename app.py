@@ -229,7 +229,7 @@ def main():
             )
             st.session_state.selected_model = model_options[selected_model_name]
 
-        st.markdown('<br><hr><center>❤️ Open Source<br><span style="font-size: 14px">[View on GitHub](https://github.com/elisemercury/LingoAI)</span></center>', unsafe_allow_html=True)
+        st.markdown('<br><hr><center>❤️ Open Source<br><span style="font-size: 14px">[View on GitHub](https://github.com/elisemercury/lingo-ai)</span></center>', unsafe_allow_html=True)
 
     #### Tab: Translate ####
     with tab1:
