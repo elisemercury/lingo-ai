@@ -1,5 +1,5 @@
 import streamlit as st
-from typing import Dict, List, Optional
+from typing import Dict, List
 import requests
 import prompts
 
