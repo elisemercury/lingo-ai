@@ -22,10 +22,5 @@ A simple to use interface, that comes with customizable translation parameters, 
 * Tone adjustment (make the translation sound happier or more serious)
 * Gendered translations (language dependent)
 
-## Contributing
-
-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
-
-
 ---
 ❤️ Open Source
